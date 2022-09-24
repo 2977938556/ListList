@@ -1,0 +1,65 @@
+{
+  "id": "1538928",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "0.",
+  "glyphs": [
+    {
+      "icon_id": "4305839",
+      "name": "修改头像",
+      "font_class": "xiugaitouxiang",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "25610388",
+      "name": "修改客户名称",
+      "font_class": "xiugaikehumingcheng",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "145727",
+      "name": "搜索_填充",
+      "font_class": "sousuotianchong",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "1248",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "201666",
+      "name": "3.1 返回1",
+      "font_class": "31fanhui1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "201667",
+      "name": "3.1 返回2",
+      "font_class": "31fanhui2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5800412",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18170160",
+      "name": "功能,汉堡键,横杠",
+      "font_class": "row-full",
+      "unicode": "e976",
+      "unicode_decimal": 59766
+    }
+  ]
+}
