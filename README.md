@@ -1,16 +1,16 @@
 # list
 
-## Project setup
+## 安装所有依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行到本地
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
